@@ -1,4 +1,4 @@
-# Computational-Intelligence-314441-313884
+# Computational-Intelligence (314441-313884)
 
 Welcome to the Computational Intelligence Course Assignments repository! This repository houses Abolfazl Javidian (314441) and Hossein Khodadadi (313884) completed assignments during our Computational Intelligence course. These assignments cover a wide range of topics within the field of Computational Intelligence, providing hands-on experience and practical insights, and improvement in solving complex problems using heuristic algorithms.
 
